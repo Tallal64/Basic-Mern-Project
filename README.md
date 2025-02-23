@@ -78,7 +78,7 @@ The app will be running at **`http://localhost:5173`**.
 ✅ **React with Vite** (Fast development)  
 ✅ **Express.js API** (Backend with routes)  
 ✅ **MongoDB with Mongoose** (Database)  
-✅ **State Management** (Zustand/Redux)  
+✅ **State Management** (Zustand)  
 
 ---
 
