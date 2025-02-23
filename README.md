@@ -83,6 +83,6 @@ The app will be running at **`http://localhost:5173`**.
 ---
 
 ## **🛠️ Tech Stack**
-- **Frontend:** React (Vite), Zustand/Redux, TailwindCSS
+- **Frontend:** React (Vite), Zustand, TailwindCSS
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Tools:** Git, Postman
